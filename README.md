@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+## demo样子
+![](http://i1.fuimg.com/714282/ca2df9b548e06af1.png)
 
 ### Compiles and hot-reloads for development
 ```
